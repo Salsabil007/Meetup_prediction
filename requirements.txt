@@ -1,0 +1,27 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
+
+# Deep learning
+torch>=2.2
+transformers>=4.41
+tqdm>=4.66
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Geospatial / distance utilities
+geopy>=2.3
+haversine>=2.8.0
+shapely>=2.0
+pyproj>=3.6
+
+# Graphs (friendship network)
+networkx>=3.2
+
+# IO / tooling
+pyyaml>=6.0
+jupyterlab>=4.0
